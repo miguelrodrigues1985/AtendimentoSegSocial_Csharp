@@ -1,0 +1,33 @@
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.exe.config
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.exe
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.pdb
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Form1.resources
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Form2.resources
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.exe
+C:\Users\Miguel\Desktop\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.pdb
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.exe.config
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.exe
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.pdb
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csprojAssemblyReference.cache
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Form1.resources
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Form2.resources
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Properties.Resources.resources
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csproj.GenerateResource.cache
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csproj.CoreCompileInputs.cache
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.exe
+D:\Documentos Formação\Luis Cardoso\816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.pdb
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.exe.config
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.exe
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\bin\Debug\ProjectoSegSocial_MiguelRodrigues.pdb
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csprojAssemblyReference.cache
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Form1.resources
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Form2.resources
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.Properties.Resources.resources
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csproj.GenerateResource.cache
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.csproj.CoreCompileInputs.cache
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.exe
+D:\Documentos Formação\Luis Cardoso\4-816-Programação em sistemas distribuidos-JAVA\Segsocial\ProjectoSegSocial_MiguelRodrigues\obj\Debug\ProjectoSegSocial_MiguelRodrigues.pdb
